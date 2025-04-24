@@ -16,9 +16,7 @@ This is a simple and responsive webpage built as part of the **FreeCodeCamp Resp
 - Semantic elements
 - Basic form inputs (radio, checkbox, text, button)
 
-## 📂 File Structure
-cat-photo-app/ 
-├── index.html
+
 
 ## 📝 Author
   
